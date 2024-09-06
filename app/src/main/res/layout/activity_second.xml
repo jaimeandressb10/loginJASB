@@ -9,7 +9,7 @@
         android:id="@+id/nombre"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Jaime Solano\n 1)\n B \n 2)\n B\n 3)\n B"
+        android:text="Jaime Solano\n 1)\n C \n 2)\n C\n 3)\n C \n 4)\n B \n 5)\n C\n 6)\n A \n 7)\n C \n 8)\n B"
         android:textSize="24sp"
         android:textColor="#000"
         app:layout_constraintTop_toTopOf="parent"
